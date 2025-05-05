@@ -4,7 +4,7 @@ This project is a web-based spam email classifier that uses the **Enron Email Da
 
 ---
 
-## ✅ Features
+## Features
 
 - Trained on **real-world emails** from the Enron spam dataset
 - Uses both the **subject and message** for improved accuracy
@@ -18,7 +18,7 @@ This project is a web-based spam email classifier that uses the **Enron Email Da
 
 ---
 
-## 🧠 Model Details
+## Model Details
 
 - **Algorithm**: Multinomial Naive Bayes
 - **Vectorization**: TF-IDF
@@ -26,7 +26,7 @@ This project is a web-based spam email classifier that uses the **Enron Email Da
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 ### 1. Clone the repo or download the files
 Make sure you have:
